@@ -1,1 +1,1 @@
-Netlify Deploy Link - https://authpagenewof.netlify.app/login
+Netlify Deploy Link - https://authpagenewof.netlify.app/
